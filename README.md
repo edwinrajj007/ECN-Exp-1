@@ -25,24 +25,19 @@
 **CIRCUIT DIAGRAM:**
 
 
-
-<img width="1001" height="1600" alt="image" src="https://github.com/user-attachments/assets/5f5bc685-2f29-4a26-979c-a58a4655e241" />
-
-
-
-
-
-
+<img width="906" height="1280" alt="image" src="https://github.com/user-attachments/assets/4ca9e93f-6180-49b6-89df-e7b93d8229a4" />
 
 
 
 **CALCULATION**
 
 
-<img width="954" height="1600" alt="image" src="https://github.com/user-attachments/assets/41c09afb-3f09-4306-9cf7-15982fa5b65f" />
+<img width="1186" height="1061" alt="image" src="https://github.com/user-attachments/assets/ef58bcc6-83b6-4c23-8675-acef232f5ca3" />
 
 
-<img width="932" height="1600" alt="image" src="https://github.com/user-attachments/assets/79248532-d641-4397-89d2-3727339665ee" />
+
+<img width="805" height="1280" alt="image" src="https://github.com/user-attachments/assets/370a1e50-f78f-4f8c-aa82-d9ac0153e768" />
+
 
 
 
@@ -64,19 +59,15 @@
 
 **TABULARCOLUMN**
 
-<img width="954" height="1600" alt="image" src="https://github.com/user-attachments/assets/74604a04-5d9a-4d43-8c3f-00ac5e5954e6" />
+
+<img width="1183" height="833" alt="image" src="https://github.com/user-attachments/assets/9f7381ee-df7b-451f-b444-be3d42371141" />
 
 
 
  **MARK SPLIT - UP**
 
- 
-<img width="1080" height="1570" alt="image" src="https://github.com/user-attachments/assets/dda63aeb-4011-4cfe-9801-6474c497d982" />
+<img width="1250" height="1064" alt="image" src="https://github.com/user-attachments/assets/74d6b6ff-d418-408e-9ecd-82f9441647da" />
 
-
- 
-
- 
 
 **RESULT:**
 
